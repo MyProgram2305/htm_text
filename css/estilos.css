@@ -1,0 +1,18 @@
+.fondo{
+    background: greenyellow
+}
+.titulo{
+   font-size: 25px;
+   font-style: italic;
+   color: blueviolet;
+}
+.subtitulo{
+    font-size: 20px;
+   font-weight: lighter;
+}
+.sub_sub{
+    font: lighter 19px arial;
+}
+p{
+    font-family: sans-serif;
+}
